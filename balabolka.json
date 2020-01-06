@@ -7,8 +7,10 @@
     "installer": {
         "file": "setup.exe",
         "args": [
-            "/SP-",
-            "/DIR=\"$dir\""
+            "/S",
+            "/DIR=\"$dir\"",
+            ""
+
         ]
     }
 
