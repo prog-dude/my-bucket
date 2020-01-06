@@ -8,7 +8,7 @@
         "file": "setup.exe",
         "args": [
             "/S",
-            "/Next",
+            "0",
             "/DIR=\"$dir\""
         ]
     }
