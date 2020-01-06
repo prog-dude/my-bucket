@@ -2,7 +2,7 @@
     "version": "7.10.5",
     "license": "Public Domain",
     "url": "https://www.bittorrent.com/downloads/complete/track/stable/os/win",
-    "bin": "bittorrent.exe"
+    "bin": "bittorrent.exe",
     "shortcuts": [
         [
             "bittorrent.exe",
