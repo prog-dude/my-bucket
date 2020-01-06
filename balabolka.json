@@ -2,6 +2,7 @@
     "version": "2.15.0.727",
     "license": "Freeware",
     "url": "http://balabolka.site/balabolka.zip",
+    "extract_dir": "balabolka",
     "shortcuts": [
         [
             "setup.exe",
