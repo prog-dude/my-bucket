@@ -7,8 +7,8 @@
     "installer": {
         "file": "setup.exe",
         "args": [
-            "/VERYSILENT",
-            "/English",
+            "/S",
+            "/SELECT_ENGLISH",
             "/DIR=\"$dir\"",
             ""
 
