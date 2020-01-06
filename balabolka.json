@@ -7,7 +7,7 @@
     "installer": {
         "file": "setup.exe",
         "args": [
-            "/Silent",
+            "/VERYSILENT",
             "/English",
             "/DIR=\"$dir\"",
             ""
