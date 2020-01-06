@@ -7,9 +7,14 @@
     "installer": {
         "file": "setup.exe",
         "args": [
-            "/S",
-            "0",
-            "/DIR=\"$dir\""
+            "--mode",
+            "unattended",
+            "--installer-language",
+            "en",
+            "--prefix",
+            "$dir",
+            "--unattendedmodeui",
+            "minimal"
         ]
     }
 
