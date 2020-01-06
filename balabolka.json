@@ -6,16 +6,7 @@
     "pre_install": "Rename-Item (Get-ChildItem \"$dir\" *.exe).FullName setup.exe",
     "installer": {
         "file": "setup.exe",
-        "args": [
-            "--mode",
-            "unattended",
-            "--installer-language",
-            "en",
-            "--prefix",
-            "$dir",
-            "--unattendedmodeui",
-            "minimal"
-        ]
+
     }
 
 }
