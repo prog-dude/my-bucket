@@ -9,11 +9,11 @@ scoop install flstudio
 #scoop install gog2
 scoop install logos
 #scoop install midiox
-scoop install nordvpn
+#scoop install nordvpn
 scoop install office07
 #scoop install pc_equalizer_gui
 #scoop install pdfcandy
 scoop install razersynapse2
 #scoop install scite4ahk
-scoop install visualboyadvance
+#scoop install visualboyadvance
 #scoop install 
