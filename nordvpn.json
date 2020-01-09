@@ -1,4 +1,11 @@
 {
     "version": "6.26",
-    "url": "https://downloads.nordcdn.com/apps/windows/10/NordVPN/latest/NordVPNSetup.exe"
+    "url": "https://downloads.nordcdn.com/apps/windows/10/NordVPN/latest/NordVPNSetup.exe",
+    "installer": {
+        "file": "NordVPNSetup.exe",
+        "args": [
+            "/S",
+            "/DIR=\"$dir\""
+        ]
+    }
 }

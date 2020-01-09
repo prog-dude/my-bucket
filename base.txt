@@ -1,5 +1,6 @@
 {
     "version": "",
-    "url": "",
-    "bin": ""
+    "url": ""
 }
+
+pFXvK!2OM5hT
