@@ -4,8 +4,7 @@
     "installer": {
         "file": "NordVPNSetup.exe",
         "args": [
-            "/S",
-            "/DIR=\"$dir\""
+            "/S"
         ]
     }
 }
