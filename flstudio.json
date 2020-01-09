@@ -1,5 +1,13 @@
 {
     "version": "20.6.0.1458",
     "url": "https://support.image-line.com/redirect/flstudio20_win_installer#/.exe",
-    "hash": "8a99e07cc59928e5ea228b29b0c88e79b9a0cb442d50a43eb9ec4b728f663dc6"
+    "hash": "8a99e07cc59928e5ea228b29b0c88e79b9a0cb442d50a43eb9ec4b728f663dc6",
+    "installer": {
+        "file": ".exe",
+        "args": [
+            "/S",
+            "/Next",
+            "/DIR=\"$dir\""
+        ]
+    }
 }
