@@ -5,10 +5,10 @@ Write-Host "------------------"
 #scoop install citra
 #scoop install equalizerapo
 scoop install flstudio
-scoop install geforce
+#scoop install geforce
 #scoop install gog2
 scoop install logos
-scoop install midiox
+#scoop install midiox
 scoop install nordvpn
 scoop install office07
 scoop install pc_equalizer_gui
